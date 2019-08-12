@@ -1,14 +1,24 @@
-Updating f249ddae..d5a2644c
-Fast-forward
- rates.json        |    28 +-
- rates1k.json      | 20226 +++++++++++++++++++++++-
- rates_2019-4.json | 20220 ++++++++++++++++++++++++
- rates_2019-5.json | 44342 ++++++++++++++++++++++++++++++++++++++++++++++++++++
- rates_2019-6.json | 42982 ++++++++++++++++++++++++++++++++++++++++++++++++++
- rates_2019-7.json | 44302 +++++++++++++++++++++++++++++++++++++++++++++++++++
- rates_2019-8.json | 16622 ++++++++++++++++++++
- 7 files changed, 188315 insertions(+), 407 deletions(-)
- create mode 100644 rates_2019-5.json
- create mode 100644 rates_2019-6.json
- create mode 100644 rates_2019-7.json
- create mode 100644 rates_2019-8.json
+{
+	"BAY": {
+		"last_updated": "2019-08-12T15:19:01.000Z",
+		"price": 39.785906449389344,
+		"floor": 0.45000000000000007,
+		"pegvote": "inflate",
+		"volume_24h": 63290.0633022639,
+		"percent_change_1h": -4.75514,
+		"percent_change_24h": -21.6004,
+		"percent_change_7d": -22.1116,
+		"market_cap": 2304055.8071045605
+	},
+	"BTC": {
+		"last_updated": "2019-08-12T15:19:32.000Z",
+		"price": 11373.5110429,
+		"floor": 20000,
+		"pegvote": "",
+		"volume_24h": 14133347815.95,
+		"percent_change_1h": -0.0561001,
+		"percent_change_24h": -0.250233,
+		"percent_change_7d": -3.32569,
+		"market_cap": 203272791776.45416
+	}
+}
