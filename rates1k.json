@@ -1,30 +1,6 @@
 [
 	{
 		"BAY": {
-			"last_updated": "2019-11-03T13:27:01.000Z",
-			"price": 24.352007009334486,
-			"floor": 58.38585205078125,
-			"pegvote": "deflate",
-			"volume_24h": 345.145645418647,
-			"percent_change_1h": 0.0903218,
-			"percent_change_24h": 33.1788,
-			"percent_change_7d": 40.0772,
-			"market_cap": 8283877.55272116
-		},
-		"BTC": {
-			"last_updated": "2019-11-03T13:27:37.000Z",
-			"price": 9205.97261849,
-			"floor": 20000,
-			"pegvote": "",
-			"volume_24h": 21040275010.863,
-			"percent_change_1h": 0.131795,
-			"percent_change_24h": -1.19254,
-			"percent_change_7d": -2.29883,
-			"market_cap": 165958830185.30475
-		}
-	},
-	{
-		"BAY": {
 			"last_updated": "2019-11-03T13:47:01.000Z",
 			"price": 24.361902951423897,
 			"floor": 58.38585205078125,
@@ -23997,6 +23973,30 @@
 			"percent_change_24h": 0.688902,
 			"percent_change_7d": -3.47274,
 			"market_cap": 155259236333.53955
+		}
+	},
+	{
+		"BAY": {
+			"last_updated": "2019-11-17T13:39:01.000Z",
+			"price": 22.750398923090597,
+			"floor": 58.38585205078125,
+			"pegvote": "deflate",
+			"volume_24h": 666.712926650519,
+			"percent_change_1h": -0.0880309,
+			"percent_change_24h": 2.65319,
+			"percent_change_7d": -26.9264,
+			"market_cap": 4179036.6678944076
+		},
+		"BTC": {
+			"last_updated": "2019-11-17T13:39:35.000Z",
+			"price": 8600.50465103,
+			"floor": 20000,
+			"pegvote": "",
+			"volume_24h": 17930513292.7804,
+			"percent_change_1h": -0.0834126,
+			"percent_change_24h": 0.665546,
+			"percent_change_7d": -3.52336,
+			"market_cap": 155261040237.95163
 		}
 	}
 ]
